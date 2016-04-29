@@ -6,7 +6,7 @@ utiliza framework para interfaz grafica pygame
 
 Agente inteligente.
 
-#instalacion:
+#Instalacion:
 
 1. Instalar python 2.7 o superior en tu computadora
 2. Descargar las librerias pygame de python
